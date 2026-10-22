@@ -6,4 +6,4 @@
 
 - **Memoria RAM: 32gb**
 - **Disco: 2tb**
-
+- **Dirección IP:** 192.168.31.130
